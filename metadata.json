@@ -1,0 +1,6 @@
+{
+  "name": "FontExtractor",
+  "description": "A high-utility web application that identifies and extracts font data from live URLs or static images.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
